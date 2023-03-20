@@ -1,0 +1,49 @@
+.card {
+  font-family: Arial, sans-serif;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+  background-color: #fff;
+}
+
+.card img {
+  width: 50%;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.card h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.card p.title {
+  font-size: 18px;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.links a {
+  display: inline-block;
+  margin: 0 10px;
+  color: #666;
+  text-decoration: none;
+  font-size: 22px;
+}
+
+.links a:hover {
+  color: #000;
+}
+
+.card p a {
+  color: #666;
+  text-decoration: none;
+}
+
+.card p a:hover {
+  color: #000;
+}
